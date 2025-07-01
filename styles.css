@@ -1,0 +1,42 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+html {
+    background: black;
+}
+
+.post {
+    margin: auto;
+    width: 70%;
+   padding: 0;
+   background: white;
+
+}
+h1 {
+    margin-right: 470px;
+}
+.puntos-vertical {
+   display:inline-flex;
+}
+
+.post-header {
+    display: flex;
+  display: grid;
+}
+
+.foto-perfil {
+    width: 16px;
+}
+.foto-post {
+    display: flex;
+    width: 400px;
+}
+.icono {
+    display:flex;
+
+}
+.guardar {
+    display: ;
+}
