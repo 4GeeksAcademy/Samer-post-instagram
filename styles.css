@@ -9,34 +9,55 @@ html {
 
 .post {
     margin: auto;
-    width: 70%;
-   padding: 0;
-   background: white;
+    width: 27%;
+    padding: 8px;
+    background: white;
+}
 
-}
-h1 {
-    margin-right: 470px;
-}
-.puntos-vertical {
-   display:inline-flex;
+.more-option {
+    display: grid;
+    margin-left: 420px;
 }
 
 .post-header {
     display: flex;
-  display: grid;
+    gap: 5px;
+    margin-bottom: 5px;
+}
+
+.name {
+    margin-left: px;
+
+}
+
+.imagen {
+    display: grid;
 }
 
 .foto-perfil {
     width: 16px;
 }
+
 .foto-post {
     display: flex;
-    width: 400px;
+    width: 100%;
 }
-.icono {
-    display:flex;
 
+.simbolos {
+    display: flex;
 }
+
+.iconos {
+    display: flex;
+    margin-right: 443px;
+    margin-left: 2px;
+    gap: 4px;
+}
+
 .guardar {
-    display: ;
+    display: inline;
+}
+
+.parrafos {
+    width: 425px;
 }
